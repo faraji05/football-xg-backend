@@ -63,4 +63,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deployment placeholder
-        run: echo "Deployment placeholder: replace this step with the tutorial deployment command."
+        run: |
+          echo "Deployment placeholder: replace this step with the tutorial deployment command."
